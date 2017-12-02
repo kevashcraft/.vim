@@ -25,9 +25,11 @@ git clone https://github.com/kevashcraft/.vim.git ~/.vim &&
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [vim-pathogen](https://github.com:tpope/vim-pathogen.git)
+* [colorschemes](https://github.com/flazz/vim-colorschemes.git)
+* [youcompleteme](https://github.com/valloric/youcompleteme)
+* [syntastic](https://github.com:vim-syntastic/syntastic.git)
+* [vim-vue](https://github.com:posva/vim-vue.git)
 
 ## Contributing
 
@@ -47,7 +49,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [Vim-Awesome](https://vimawesome.com)
-* [Tim Pope](https://github.com/tpope) (for pathogen and being cool)
-* [Franco Lazzarino](https://github.com/flazz) (for introducing the idea of submodule and version-controlling .vim)
+* [Vim Org](http://www.vim.org/)
+* [Vim-Awesome](https://vimawesome.com) - AWESOME VIM PLUGINS from ACROSS THE UNIVERSE
+
+* [Tim Pope](https://github.com/tpope) - Vim plugin artist 
+* [Franco Lazzarino](https://github.com/flazz) - introduced the idea of submodule and version-controlling .vim
 
