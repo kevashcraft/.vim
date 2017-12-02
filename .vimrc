@@ -21,7 +21,7 @@ let g:syntastic_check_on_wq = 0
 
 " Vim colorschemes - https://github.com/flazz/vim-colorschemes
 set background=dark
-colorscheme material-monokai
+colorscheme black_angus
 
 " Return to last position on file open
 if has("autocmd")
